@@ -1,0 +1,3 @@
+git remote add upstream https://github.com/shemaderrick/alx-pre_course.git
+git fetch upstream
+git merge upstream/master
